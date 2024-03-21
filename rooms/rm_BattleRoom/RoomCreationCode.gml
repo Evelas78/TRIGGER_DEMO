@@ -1,0 +1,1 @@
+global.MusicHandler.mus_loadedTrack = mus_Eruption_Are_Always_Explosive

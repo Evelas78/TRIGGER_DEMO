@@ -1,0 +1,55 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_TransitionTrigger",
+  "eventList": [],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "BoundingBoxes",
+    "path": "folders/Objects/GameHandlers/BoundingBoxes.yy",
+  },
+  "parentObjectId": null,
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":64.0,"y":0.0,},
+    {"x":64.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
+  ],
+  "physicsStartAwake": true,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"input_TriggerKey","filters":[],"listItems":[
+        "vk_left",
+        "vk_right",
+        "vk_up",
+        "vk_down",
+      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"vk_right","varType":6,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"macro_TransType","filters":[],"listItems":[
+        " transitionType.TRANS_CLOSE_BOX",
+      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":" transitionType.TRANS_CLOSE_BOX","varType":6,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"asset_TargetRoom","filters":[
+        "GMRoom",
+      ],"listItems":[
+        "BattleRoom",
+      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"noone","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"int_TransitionTick","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"150","varType":0,},
+  ],
+  "solid": false,
+  "spriteId": {
+    "name": "s_BoundingBox",
+    "path": "sprites/s_BoundingBox/s_BoundingBox.yy",
+  },
+  "spriteMaskId": null,
+  "visible": false,
+}
