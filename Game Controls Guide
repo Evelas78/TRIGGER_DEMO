@@ -4,6 +4,8 @@ Overworld Controls:
 Arrow keys to move in the overworld (where youre walking)
 Z to progress text
 
+Walk to the right to enter the next scenes and eventually the battle. 
+
 Battle Controls:
 Arrow up and down to choose ability/target for ability after confirming ability
 Z to confirm ability, all abilities must then select a target, whether a buff or attack (team buffs only target is the casting character, so just press z immediately if you want to play it asap)
