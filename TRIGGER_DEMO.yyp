@@ -105,6 +105,7 @@
     {"id":{"name":"tM_Shadows","path":"tilesets/tM_Shadows/tM_Shadows.yy",},},
     {"id":{"name":"bs_SkeletonSoldier_Idle","path":"sprites/bs_SkeletonSoldier_Idle/bs_SkeletonSoldier_Idle.yy",},},
     {"id":{"name":"o_Battle_Enemy_Placeholder","path":"objects/o_Battle_Enemy_Placeholder/o_Battle_Enemy_Placeholder.yy",},},
+    {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},},
     {"id":{"name":"gc_MusicHandler","path":"objects/gc_MusicHandler/gc_MusicHandler.yy",},},
     {"id":{"name":"o_Battle_Hero_Placeholder","path":"objects/o_Battle_Hero_Placeholder/o_Battle_Hero_Placeholder.yy",},},
     {"id":{"name":"o_EncounterTrigger","path":"objects/o_EncounterTrigger/o_EncounterTrigger.yy",},},
