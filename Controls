@@ -1,0 +1,13 @@
+Press numpad 1 to start 
+
+Overworld Controls:
+Arrow keys to move in the overworld (where youre walking)
+Z to progress text
+
+Battle Controls:
+Arrow up and down to choose ability/target for ability after confirming ability
+Z to confirm ability, all abilities must then select a target, whether a buff or attack (team buffs only target is the casting character, so just press z immediately if you want to play it asap)
+X to go back from choosing target if you change your mind on the move
+
+When the timer at the top left/right hit 0, it means the next character may go. It doesnt skip the current characters turn, you can hold onto an ability like that or chain attacks on one character, timing it after heals
+Finally, abilities are casted immediately after the character's animation is done, so different abilities have different cast times. 
